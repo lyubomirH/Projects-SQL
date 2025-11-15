@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Project-whit-SQL\\Project-GameChat\\Chat\\Chat.csproj": {}
+    "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Projects-SQL\\Project-GameChat\\Chat\\Chat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Project-whit-SQL\\Project-GameChat\\Chat\\Chat.csproj": {
+    "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Projects-SQL\\Project-GameChat\\Chat\\Chat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Project-whit-SQL\\Project-GameChat\\Chat\\Chat.csproj",
+        "projectUniqueName": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Projects-SQL\\Project-GameChat\\Chat\\Chat.csproj",
         "projectName": "Chat",
-        "projectPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Project-whit-SQL\\Project-GameChat\\Chat\\Chat.csproj",
+        "projectPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Projects-SQL\\Project-GameChat\\Chat\\Chat.csproj",
         "packagesPath": "C:\\Users\\lyubo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Project-whit-SQL\\Project-GameChat\\Chat\\obj\\",
+        "outputPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\Projects-SQL\\Project-GameChat\\Chat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

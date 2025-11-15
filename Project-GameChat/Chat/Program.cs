@@ -38,23 +38,22 @@ namespace Chat
             Console.WriteLine("2. Posts with comments:");
             var postsWithComments = context.Posts
                 .Where(p => !p.IsDeleted)
-                .Join(context.Comments.Where(c => !c.IsDeleted),
-                      post => post.Id,
-                      comment => comment.PostId,
-                      (post, comment) => new { Post = post, Comment = comment })
-                .GroupBy(x => x.Post)
-                .Select(g => new
-                {
-                    Author = g.Key.User.UserName,
-                    Game = g.Key.GameTitle,
-                    Content = g.Key.Content,
-                    Comments = g.Select(x => new
+                .GroupJoin(
+                    context.Comments.Where(c => !c.IsDeleted),
+                    post => post.Id,
+                    comment => comment.PostId,
+                    (post, comments) => new
                     {
-                        Commenter = x.Comment.User.UserName,
-                        x.Comment.CommentTitle,
-                        x.Comment.Content
-                    }).ToList()
-                })
+                        Author = post.User.UserName,
+                        Game = post.GameTitle,
+                        Content = post.Content,
+                        Comments = comments.Select(c => new
+                        {
+                            Commenter = c.User.UserName,
+                            c.CommentTitle,
+                            c.Content
+                        }).ToList()
+                    })
                 .ToList();
 
             foreach (var post in postsWithComments)
