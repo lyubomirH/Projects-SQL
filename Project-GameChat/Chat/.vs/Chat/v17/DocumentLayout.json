@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\school-corses\\school-corses\\project-gamechat\\chat\\chat\\configration\\gamenetworkconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|solutionrelative:chat\\configration\\gamenetworkconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\school-corses\\school-corses\\project-gamechat\\chat\\chat\\data\\entites\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|solutionrelative:chat\\data\\entites\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\school-corses\\school-corses\\project-gamechat\\chat\\chat\\configration\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|solutionrelative:chat\\configration\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\school-corses\\school-corses\\project-gamechat\\chat\\chat\\data\\gamenetworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|solutionrelative:chat\\data\\gamenetworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\school-corses\\school-corses\\project-gamechat\\chat\\chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|solutionrelative:chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\school-corses\\school-corses\\project-gamechat\\chat\\chat\\data\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|solutionrelative:chat\\data\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\school-corses\\school-corses\\project-gamechat\\chat\\chat\\data\\entites\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|solutionrelative:chat\\data\\entites\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\school-corses\\school-corses\\project-gamechat\\chat\\chat\\data\\entites\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81974C-5F56-4242-A45B-3332F302056F}|Chat\\Chat.csproj|solutionrelative:chat\\data\\entites\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Configration\\SeedData.cs",
+              "RelativeDocumentMoniker": "Chat\\Configration\\SeedData.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Configration\\SeedData.cs",
+              "RelativeToolTip": "Chat\\Configration\\SeedData.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:07:33.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameNetworkDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\GameNetworkDbContext.cs",
+              "RelativeDocumentMoniker": "Chat\\Data\\GameNetworkDbContext.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\GameNetworkDbContext.cs",
+              "RelativeToolTip": "Chat\\Data\\GameNetworkDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:54:41.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\Entites\\Post.cs",
+              "RelativeDocumentMoniker": "Chat\\Data\\Entites\\Post.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\Entites\\Post.cs",
+              "RelativeToolTip": "Chat\\Data\\Entites\\Post.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:15:12.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "Chat\\Data\\Entites\\User.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\Entites\\User.cs",
+              "RelativeToolTip": "Chat\\Data\\Entites\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:10:18.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Program.cs",
+              "RelativeDocumentMoniker": "Chat\\Program.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Program.cs",
+              "RelativeToolTip": "Chat\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:06:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameNetworkConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Configration\\GameNetworkConfiguration.cs",
+              "RelativeDocumentMoniker": "Chat\\Configration\\GameNetworkConfiguration.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Configration\\GameNetworkConfiguration.cs",
+              "RelativeToolTip": "Chat\\Configration\\GameNetworkConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:59:57.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Achievement.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\Entites\\Achievement.cs",
+              "RelativeDocumentMoniker": "Chat\\Data\\Entites\\Achievement.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\Entites\\Achievement.cs",
+              "RelativeToolTip": "Chat\\Data\\Entites\\Achievement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:22:21.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\Entites\\Comment.cs",
+              "RelativeDocumentMoniker": "Chat\\Data\\Entites\\Comment.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\School-Corses\\School-Corses\\Project-GameChat\\Chat\\Chat\\Data\\Entites\\Comment.cs",
+              "RelativeToolTip": "Chat\\Data\\Entites\\Comment.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:36:29.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
